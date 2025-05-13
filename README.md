@@ -10,6 +10,7 @@ Features
 - KPI cards
 
 Insights
+
 -Flix and Tahe providers generated the most revenue
 
 -Cash was slightly more common than card payments (56% vs 44$)
